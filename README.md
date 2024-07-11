@@ -1,4 +1,4 @@
-This repository contains a html document as solution to the following code challenge
+This repository contains java-script and HTML documents as solutions to the following code challenge
 ###
 Code Challenge: Interactive Shopping List
 This challenge combines array iteration, DOM manipulation, and event handling to create an interactive shopping list application.
